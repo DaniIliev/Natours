@@ -3,6 +3,10 @@
 ## 📌 Overview
 This project is a fully responsive and modern **HTML & SCSS** template built as part of the **"Advanced CSS and Sass: Float-based Layouts and More!"** course by Jonas Schmedtmann. It showcases advanced styling techniques using **float-based layouts, clearfix techniques, custom properties, and a modular SCSS architecture**.
 
+## 🔥 Live Demo (click on the picture)
+[<img src="img/NatoursSCR.png" width="400" />](https://daniiliev.github.io/Trillo/) 
+
+
 ## ✨ Features
 ✔ **SCSS Architecture** following the **7-1 pattern**  
 ✔ **Float-based Layout with Clearfix** for structured layouts  
@@ -46,9 +50,7 @@ Follow these steps to get the project running locally:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
+git clone https://github.com/DaniIliev/Natours.git
 
 ### 2️⃣ Install Dependencies
 Make sure **Node.js** and **npm** are installed, then run:
