@@ -4,7 +4,7 @@
 This project is a fully responsive and modern **HTML & SCSS** template built as part of the **"Advanced CSS and Sass: Float-based Layouts and More!"** course by Jonas Schmedtmann. It showcases advanced styling techniques using **float-based layouts, clearfix techniques, custom properties, and a modular SCSS architecture**.
 
 ## 🔥 Live Demo (click on the picture)
-[<img src="img/NatoursSCR.png" width="400" />](https://daniiliev.github.io/Trillo/) 
+[<img src="img/NatoursSCR.png" width="400" />](https://daniiliev.github.io/Natours/) 
 
 
 ## ✨ Features
