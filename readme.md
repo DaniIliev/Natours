@@ -72,9 +72,6 @@ npm run start
 ```
 Then open `index.html` in your browser.
 
-## 🔥 Live Demo
-[![Website Screenshot](assets/screenshot.png)](https://your-username.github.io/your-repository/)
-
 ## 👨‍💻 Author & Credits
 This project was created as part of the **"Advanced CSS and Sass: Float-based Layouts and More!"** course by Jonas Schmedtmann.
 
